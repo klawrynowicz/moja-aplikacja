@@ -1,0 +1,14 @@
+/Users/kamil/Documents/moja-aplikacja/bin/Debug/net8.0/moja-aplikacja
+/Users/kamil/Documents/moja-aplikacja/bin/Debug/net8.0/moja-aplikacja.deps.json
+/Users/kamil/Documents/moja-aplikacja/bin/Debug/net8.0/moja-aplikacja.runtimeconfig.json
+/Users/kamil/Documents/moja-aplikacja/bin/Debug/net8.0/moja-aplikacja.dll
+/Users/kamil/Documents/moja-aplikacja/bin/Debug/net8.0/moja-aplikacja.pdb
+/Users/kamil/Documents/moja-aplikacja/obj/Debug/net8.0/moja-aplikacja.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kamil/Documents/moja-aplikacja/obj/Debug/net8.0/moja-aplikacja.AssemblyInfoInputs.cache
+/Users/kamil/Documents/moja-aplikacja/obj/Debug/net8.0/moja-aplikacja.AssemblyInfo.cs
+/Users/kamil/Documents/moja-aplikacja/obj/Debug/net8.0/moja-aplikacja.csproj.CoreCompileInputs.cache
+/Users/kamil/Documents/moja-aplikacja/obj/Debug/net8.0/moja-aplikacja.dll
+/Users/kamil/Documents/moja-aplikacja/obj/Debug/net8.0/refint/moja-aplikacja.dll
+/Users/kamil/Documents/moja-aplikacja/obj/Debug/net8.0/moja-aplikacja.pdb
+/Users/kamil/Documents/moja-aplikacja/obj/Debug/net8.0/moja-aplikacja.genruntimeconfig.cache
+/Users/kamil/Documents/moja-aplikacja/obj/Debug/net8.0/ref/moja-aplikacja.dll

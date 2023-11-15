@@ -1,0 +1,15 @@
+C:\Users\Dom\Desktop\moja-aplikacja\bin\Debug\net7.0\moja-aplikacja.exe
+C:\Users\Dom\Desktop\moja-aplikacja\bin\Debug\net7.0\moja-aplikacja.deps.json
+C:\Users\Dom\Desktop\moja-aplikacja\bin\Debug\net7.0\moja-aplikacja.runtimeconfig.json
+C:\Users\Dom\Desktop\moja-aplikacja\bin\Debug\net7.0\moja-aplikacja.dll
+C:\Users\Dom\Desktop\moja-aplikacja\bin\Debug\net7.0\moja-aplikacja.pdb
+C:\Users\Dom\Desktop\moja-aplikacja\obj\Debug\net7.0\moja-aplikacja.csproj.AssemblyReference.cache
+C:\Users\Dom\Desktop\moja-aplikacja\obj\Debug\net7.0\moja-aplikacja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dom\Desktop\moja-aplikacja\obj\Debug\net7.0\moja-aplikacja.AssemblyInfoInputs.cache
+C:\Users\Dom\Desktop\moja-aplikacja\obj\Debug\net7.0\moja-aplikacja.AssemblyInfo.cs
+C:\Users\Dom\Desktop\moja-aplikacja\obj\Debug\net7.0\moja-aplikacja.csproj.CoreCompileInputs.cache
+C:\Users\Dom\Desktop\moja-aplikacja\obj\Debug\net7.0\moja-aplikacja.dll
+C:\Users\Dom\Desktop\moja-aplikacja\obj\Debug\net7.0\refint\moja-aplikacja.dll
+C:\Users\Dom\Desktop\moja-aplikacja\obj\Debug\net7.0\moja-aplikacja.pdb
+C:\Users\Dom\Desktop\moja-aplikacja\obj\Debug\net7.0\moja-aplikacja.genruntimeconfig.cache
+C:\Users\Dom\Desktop\moja-aplikacja\obj\Debug\net7.0\ref\moja-aplikacja.dll
